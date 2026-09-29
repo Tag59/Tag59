@@ -24,7 +24,7 @@
 
 Je pratique régulièrement sur **HackTheBox** et **TryHackMe**, et je documente mes apprentissages ici.
 
-> 🎯 **Je recherche une alternance de 2 ans en cybersécurité à partir de septembre 2026** — SOC, pentest, DevSecOps, GRC ou Cloud Security. Zone Valenciennes / Lille. Ouvert à tout échange.
+> 🎯 **Je recherche un stage de 6 mois à partir du 1e Mars 2027** — SOC, pentest, DevSecOps, GRC ou Cloud Security. Zone Valenciennes / Lille. Ouvert à tout échange.
 
 ---
 
@@ -113,7 +113,7 @@ Machines HackTheBox / TryHackMe résolues : reconnaissance → énumération →
 
 ## 📫 Me contacter
 
-Activement à la recherche d'une **alternance en cybersécurité (2 ans, sept. 2026)** — Valenciennes / Lille.
+Activement à la recherche d'un **stage en cybersécurité (6 mois, Mars. 2027)** — Valenciennes / Lille.
 
 - 📧 **Email** : ethanj010304@gmail.com
 - 💼 **LinkedIn** : [linkedin.com/in/ethan-joets](https://www.linkedin.com/in/ethan-joets)
