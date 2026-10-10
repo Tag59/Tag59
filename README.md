@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Recherche-Alternance%20Cybersécurité%20Sept.%202026-1A5276?style=flat-square&labelColor=1A5276&color=2E86C1" alt="Alternance"/>
+ 
+<img src="https://img.shields.io/badge/Recherche-Stage%206%20mois%20·%20Mars%202027-1A5276?style=flat-square&labelColor=1A5276&color=2E86C1" alt="Stage"/>
   <img src="https://img.shields.io/badge/Zone-Valenciennes%20%2F%20Lille-2E7D32?style=flat-square" alt="Zone"/>
   <img src="https://img.shields.io/badge/Focus-Sécurité%20×%20IA%20×%20Systèmes-6C3483?style=flat-square" alt="Focus"/>
 </p>
